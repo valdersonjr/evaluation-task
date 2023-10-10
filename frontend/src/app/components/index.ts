@@ -1,0 +1,1 @@
+export { PaymentForm as PaymentForm } from './PaymentForm';
